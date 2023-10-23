@@ -170,6 +170,15 @@ Tutorials will build on open source models and use the OpenAI API with a setup s
 
 ---
 
+```{r, echo=F}
+magick::image_read_pdf("SILLM_Exercises.pdf", pages = 1)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("SILLM_Exercises.pdf", pages = 2)
+```
+---
+
 # Course projects
 
 - Course projects will be done in small groups (max 3 students)
