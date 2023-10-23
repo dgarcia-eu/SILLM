@@ -25,7 +25,7 @@ The course has four assignments, with approximately five weeks per assignment. T
 
 
 # Course topics
-- [Introduction and Motivation]()
+- [Introduction and Motivation](https://dgarcia-eu.github.io/SILLM/Slides/01_Intro/Slides.html)
 - What does large mean?
 - Natural Language Processing basics
 - Advanced concepts in Natural Language Processing
