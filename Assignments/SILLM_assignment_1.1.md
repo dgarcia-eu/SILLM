@@ -46,7 +46,7 @@ Use OpenAI’s API to access GPT3.5-turbo (i.e., ChatGPT) and an open-source mod
 
 **_E. counterfactual, consistent definition:_** use the exact same prompt as the paper, but few-shot with examples from the specific datasets and counterfactual examples [Bonus +0.5 points]
 
-**_F. counterfactual, consistent definition:_** vary the definition of the construct according to the specific paper the dataset came from, but few-shot with examples from the specific datasets and counterfactual examples [Bonus +0.5 points]
+**_F. counterfactual, variable definition:_** vary the definition of the construct according to the specific paper the dataset came from, but few-shot with examples from the specific datasets and counterfactual examples [Bonus +0.5 points]
 
 In the end, you should compare the average performance (macro F1) of all of these different modes over at least 3 separate runs (to ensure robustness). 
 
