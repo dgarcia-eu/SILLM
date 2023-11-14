@@ -28,7 +28,7 @@ The course has four assignments, with approximately five weeks per assignment. T
 - [Introduction and Motivation](https://dgarcia-eu.github.io/SILLM/Slides/01_Intro/Slides.html)
 - [What does large mean?](https://dgarcia-eu.github.io/SILLM/Slides/02_MeaningOfLarge/Slides.html)
 - [Natural Language Processing basics](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/03_nlp_basics_1.pdf)
-- Advanced concepts in Natural Language Processing
+- [Advanced concepts in Natural Language Processing](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/04_nlp_intermediate.pdf.pdf)
 - General applications of LLMs
 - Content analysis with generative LLM
 - Psychometrics of LLM
