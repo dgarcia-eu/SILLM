@@ -31,10 +31,12 @@ The course has four assignments, with approximately five weeks per assignment. T
 - [Advanced concepts in Natural Language Processing](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/04_nlp_intermediate.pdf.pdf)
 - [Artificial General Intelligence and applications of LLMs](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/05_NLP_and_AGI.pdf)
 - Content analysis with generative LLM
-- Psychometrics of LLM
+  - Reading 1: [Social Simulacra: Creating Populated Prototypes for Social Computing Systems. Park et al, 2023](https://arxiv.org/pdf/2208.04024.pdf)
+  - Reading 2: [Simulating social media using large language models to evaluate alternative news feed algorithms. Törnberg et al, 2023](https://arxiv.org/pdf/2310.05984.pdf)
+- Social simulacra and generative agents
 - Replacing survey participants with LLM
 - LLM debate and Q&A
-- Social simulacra and generative agents
+- Psychometrics of LLM
 - Machine behavior: LLM as experiment participants
 - Impact of LLMs in society
 - Critique and ethics of LLMs
