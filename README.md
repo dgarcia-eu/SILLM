@@ -33,7 +33,7 @@ The course has four assignments, with approximately five weeks per assignment. T
 - [Advanced concepts in Natural Language Processing](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/04_nlp_intermediate.pdf.pdf)
 - [Artificial General Intelligence and applications of LLMs](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/05_NLP_and_AGI.pdf)
   - Reading: [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
-- Content analysis with generative LLM
+- [Content analysis with generative LLM](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/06_content_labeling.pdf.pdf)
   - Reading 1: [ChatGPT outperforms crowd workers for text-annotation tasks](https://www.pnas.org/doi/10.1073/pnas.2305016120)
   - Reading 2: [Chatbots Are Not Reliable Text Annotators](https://arxiv.org/abs/2311.05769)
 - Social simulacra and generative agents
