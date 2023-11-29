@@ -27,14 +27,21 @@ The course has four assignments, with approximately five weeks per assignment. T
 # Course topics
 - [Introduction and Motivation](https://dgarcia-eu.github.io/SILLM/Slides/01_Intro/Slides.html)
 - [What does large mean?](https://dgarcia-eu.github.io/SILLM/Slides/02_MeaningOfLarge/Slides.html)
+  - Reading 1: [Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/doi/10.1073/pnas.1903070116)
+  - Reading 2: [One Parameter is Always Enough](http://colala.berkeley.edu/papers/piantadosi2018one.pdf)
 - [Natural Language Processing basics](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/03_nlp_basics_1.pdf)
 - [Advanced concepts in Natural Language Processing](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/04_nlp_intermediate.pdf.pdf)
 - [Artificial General Intelligence and applications of LLMs](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/05_NLP_and_AGI.pdf)
-- Content analysis with generative LLM
-- Psychometrics of LLM
+  - Reading: [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
+- [Content analysis with generative LLM](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/06_content_labeling.pdf.pdf)
+  - Reading 1: [ChatGPT outperforms crowd workers for text-annotation tasks](https://www.pnas.org/doi/10.1073/pnas.2305016120)
+  - Reading 2: [Chatbots Are Not Reliable Text Annotators](https://arxiv.org/abs/2311.05769)
+- Social simulacra and generative agents
+  - Reading 1: [Social Simulacra: Creating Populated Prototypes for Social Computing Systems](https://arxiv.org/pdf/2208.04024.pdf)
+  - Reading 2: [Simulating social media using large language models to evaluate alternative news feed algorithms](https://arxiv.org/pdf/2310.05984.pdf)
 - Replacing survey participants with LLM
 - LLM debate and Q&A
-- Social simulacra and generative agents
+- Psychometrics of LLM
 - Machine behavior: LLM as experiment participants
 - Impact of LLMs in society
 - Critique and ethics of LLMs
