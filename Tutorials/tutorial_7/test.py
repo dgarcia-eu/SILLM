@@ -1,7 +1,7 @@
 import openai
 
 from openai import OpenAI
-api_base="http://91.107.239.71:80"
+api_base="base"
 api_key='your_key'
 
 
