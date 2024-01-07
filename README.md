@@ -39,7 +39,7 @@ The course has four assignments, with approximately five weeks per assignment. T
 - Social simulacra and generative agents
   - Reading 1: [Social Simulacra: Creating Populated Prototypes for Social Computing Systems](https://arxiv.org/pdf/2208.04024.pdf)
   - Reading 2: [Simulating social media using large language models to evaluate alternative news feed algorithms](https://arxiv.org/pdf/2310.05984.pdf)
-- Prompt engineering
+- [Prompt engineering](https://dgarcia-eu.github.io/SILLM/Slides/08_PromptEngineering/Slides.html)
   - Reading 1: [Large Language Models Understand and Can Be Enhanced by
 Emotional Stimuli](https://arxiv.org/pdf/2307.11760.pdf)
   - Reading 2: [Evaluating and Mitigating Discrimination in Language Model Decisions](https://arxiv.org/pdf/2312.03689.pdf)
