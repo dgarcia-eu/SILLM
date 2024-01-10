@@ -45,7 +45,7 @@ Emotional Stimuli](https://arxiv.org/pdf/2307.11760.pdf)
   - Reading 2: [Evaluating and Mitigating Discrimination in Language Model Decisions](https://arxiv.org/pdf/2312.03689.pdf)
   - Additionally: [OpenAI prompt engineering manual](https://platform.openai.com/docs/guides/prompt-engineering)
 - Psychometrics of LLMs and LLM Behavior:
-  - Reading 1: [AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories]([https://proceedings.mlr.press/v202/aher23a.html](https://journals.sagepub.com/doi/full/10.1177/17456916231214460))
+  - Reading 1: [AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)
   - Reading 2: [Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://proceedings.mlr.press/v202/aher23a.html)
 - Impact of LLMs in society
 - Critique and ethics of LLMs
