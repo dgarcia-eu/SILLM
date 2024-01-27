@@ -47,7 +47,7 @@ Emotional Stimuli](https://arxiv.org/pdf/2307.11760.pdf)
 - [Psychometrics of LLMs and LLM Behavior](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/09_bias_psychometrics_experiments.pdf.pdf):
   - Reading 1: [AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)
   - Reading 2: [Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://proceedings.mlr.press/v202/aher23a.html)
-- Impact of LLMs in society:
+- [Impact of LLMs in society](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/10_LLM_impact.pdf):
   - Reading 1: [US eating disorder helpline takes down AI chatbot over harmful advice](https://www.theguardian.com/technology/2023/may/31/eating-disorder-hotline-union-ai-chatbot-harm)
   - Reading 2: [Are large language models a threat to digital public goods? evidence from activity on stack overflow](https://arxiv.org/abs/2307.07367)
 - Critique and ethics of LLMs:
