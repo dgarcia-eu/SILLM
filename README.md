@@ -50,7 +50,7 @@ Emotional Stimuli](https://arxiv.org/pdf/2307.11760.pdf)
 - [Impact of LLMs in society](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/10_LLM_impact.pdf):
   - Reading 1: [US eating disorder helpline takes down AI chatbot over harmful advice](https://www.theguardian.com/technology/2023/may/31/eating-disorder-hotline-union-ai-chatbot-harm)
   - Reading 2: [Are large language models a threat to digital public goods? evidence from activity on stack overflow](https://arxiv.org/abs/2307.07367)
-- Critique and ethics of LLMs:
+- [Critique and ethics of LLMs](https://github.com/dgarcia-eu/SILLM/blob/main/Slides/11_Critique_of_LLMs.pdf)
   - Reading 1: [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
   - Reading 2: [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 - Course summary and preliminary project presentations
